@@ -3,11 +3,11 @@ public class operatorspractice {
         int a = 20;
         int b = 6;
                   //Arithematic operators
-        /* System.out.println(a+b);
+         System.out.println(a+b);
         System.out.println(a-b);
         System.out.println(a*b);
         System.out.println(a/b);
-        System.out.println(a%b); */
+        System.out.println(a%b); 
                  //Unary operators incremental
         /* System.out.println(a);     //20
         System.out.println(++a);   //21
